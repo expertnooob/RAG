@@ -1,0 +1,24 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+env/
+venv/
+
+# Ignore IDE-specific folders
+.idea/
+.vscode/
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore Django media folder (if it contains uploads)
+media/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore database files
+vectors.db
